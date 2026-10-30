@@ -1,0 +1,9 @@
+{
+    "name": "simple-node-web-server",
+    "version": "1.0.0",
+    "description": "Simple web server created using Node.js HTTP module",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    }
+}
